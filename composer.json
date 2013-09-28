@@ -1,0 +1,21 @@
+{
+    "name": "php/design-patterns",
+    "type": "",
+    "description": "Full readable design patterns for php",
+    "keywords": ["design pattern", "pattern"],
+    "license": ["MIT", "APACHE"],
+    "authors": [
+        {
+            "name": "Dominik Liebler",
+            "email": "liebler.dominik@googlemail.com"
+        },
+        {
+            "name": "Faizal Pribadi",
+            "email": "faizal_pribadi@aol.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "minimum-stability": "dev"
+}
